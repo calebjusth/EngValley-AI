@@ -1,0 +1,2 @@
+TOKEN='6018225053:AAF_a1S4nxTp8c5bcc2P1Wy4XCfRl_tQUvg'
+USERNAME='@Asta_power_bot'
